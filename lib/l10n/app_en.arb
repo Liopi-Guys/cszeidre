@@ -1,0 +1,10 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "emailPlaceholder": "Enter your email",
+    "@emailPlaceholder": {
+      "description": "Placeholder of Email on login_screen"
+    }
+}
